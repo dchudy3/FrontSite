@@ -4506,3 +4506,36 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 14:16:07
 
 
 Started GET "/assets/demo.jpg" for 127.0.0.1 at 2015-11-06 14:16:07 -0500
+
+
+Started GET "/welcome/contact" for 127.0.0.1 at 2015-11-06 14:27:46 -0500
+Processing by WelcomesController#contact as HTML
+  Rendered welcomes/contact.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 96ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
+
+
+Started GET "/assets/demo2.jpg" for 127.0.0.1 at 2015-11-06 14:27:47 -0500
