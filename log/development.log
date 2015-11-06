@@ -2367,3 +2367,39 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:29
 
 
 Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 101ms (Views: 92.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
+
+
+Started GET "/assets/disco___-webfont.ttf" for 127.0.0.1 at 2015-11-06 13:25:09 -0500
