@@ -2243,3 +2243,127 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:14:37
 
 
 Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:14:37 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:18:10 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 34ms
+
+ActionView::Template::Error (couldn't find file 'tisco'
+  (in /Users/Chudy/PRYSMIC/ServerSide/Prysmic/app/assets/stylesheets/application.css:14)):
+    2: <html>
+    3: <head>
+    4:   <title>Prysmic</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8: 
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__2698841299718769351_70344557169620'
+
+
+  Rendered /Users/Chudy/.rvm/gems/ruby-2.2.3/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/Chudy/.rvm/gems/ruby-2.2.3/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/Chudy/.rvm/gems/ruby-2.2.3/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:18:54 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 84ms (Views: 83.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/assets/disco___-webfont.ttf" for 127.0.0.1 at 2015-11-06 13:18:55 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 77ms (Views: 68.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:20:06 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 58ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:20:29 -0500
