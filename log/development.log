@@ -2436,3 +2436,135 @@ Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:28:17
 
 
 Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:28:17 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:30:10 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 89ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:30:11 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:32:00 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 45ms (Views: 44.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:32:08 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+Processing by WelcomeController#welcome as HTML
+  Rendered welcome/welcome.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/tisco.css?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
+
+
+Started GET "/assets/LOGO2.png" for 127.0.0.1 at 2015-11-06 13:33:01 -0500
