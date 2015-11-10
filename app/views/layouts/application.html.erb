@@ -19,8 +19,14 @@
 		</div>
 
 		<div style="">
+		<%= link_to about_welcome_path() do %>
+				<div style="float: right;color:white;padding:13px;padding-bottom:14px;padding-right:40px;padding-left:38px;font-family:disco; font-weight: 600;line-height: 33px;font-size: 23px;<%= request.path.include?("/about") ? "background-color: rgb(8,62,142);" : ""%>">About</div>
+		<% end %>
+		</div>
+
+		<div style="">
 		<%= link_to root_path() do %>
-			<div style="float: right;color:white;padding:13px;padding-bottom:14px;padding-right:40px;padding-left:38px;font-family:disco; font-weight: 600;line-height: 33px;font-size: 24px;<%= !request.path.include?("/contact") ? "background-color: rgb(8,62,142);" : ""%>">Home</div>
+			<div style="float: right;color:white;padding:13px;padding-bottom:14px;padding-right:40px;padding-left:38px;font-family:disco; font-weight: 600;line-height: 33px;font-size: 24px;<%= !(request.path.include?("/contact") or request.path.include?("/about") ) ? "background-color: rgb(8,62,142);" : ""%>">Home</div>
 		<% end %>
 		</div>
 	</div>

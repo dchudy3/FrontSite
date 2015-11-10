@@ -8,6 +8,7 @@ Rails.application.routes.draw do
   resource :welcome do
       get 'contact'
       get 'welcome'
+      get 'about'
   end
 
 
