@@ -11806,3 +11806,114 @@ Started GET "/assets/disco.css?body=1" for 127.0.0.1 at 2015-11-10 15:02:45 -050
 
 
 Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-10 15:02:45 -0500
+
+
+Started GET "/welcome/contact" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+Processing by WelcomesController#contact as HTML
+  Rendered welcomes/contact.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 34ms (Views: 32.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/disco.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/prysmic_logo.png" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/assets/demo2.jpg" for 127.0.0.1 at 2015-11-10 15:07:12 -0500
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2015-11-10 15:07:13 -0500
+Processing by WelcomesController#about as HTML
+  Rendered welcomes/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+Processing by WelcomesController#about as HTML
+  Rendered welcomes/about.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/disco.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/prysmic_logo.png" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/assets/disco___-webfont.ttf" for 127.0.0.1 at 2015-11-10 15:07:19 -0500
+
+
+Started GET "/welcome/about" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+Processing by WelcomesController#about as HTML
+  Rendered welcomes/about.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 31ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/disco.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
+
+
+Started GET "/assets/prysmic_logo.png" for 127.0.0.1 at 2015-11-10 15:07:31 -0500
