@@ -11,7 +11,7 @@
  * file per style scope.
  *
  *= require bootstrap.min
- *= require tisco
+ *= require disco
  *= require_tree .
  *= require_self
  */

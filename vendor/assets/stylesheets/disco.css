@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'disco';
+  src: url("disco___-webfont.eot");
+  src: url("disco___-webfont.eot?#iefix") format("embedded-opentype"), 
+    url("disco___-webfont.ttf") format("truetype"), 
+    url("disco___-webfont.woff") format("woff"), 
+    url("disco___-webfont.svg#disco") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
