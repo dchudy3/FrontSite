@@ -12,10 +12,21 @@
 	<div style="float: left;margin-left: 10px;margin-top: 5px;"> 
 		<%= image_tag("prysmic_logo.png", :style => "width: 50px;float:right") %></div>
 	<div>
-		<div style="float: right;color:white;margin: 12px;margin-right: 100px;font-family:disco; font-weight: 600;line-height: 34px;font-size: 23px;">Home</div>
-		<div style="float: right;color:white;font-size: x-large;margin: 12px;margin-right: 50px;font-family:disco; font-weight: 600;line-height: 33px;font-size: 24px;">Contact</div>
+		<div style="margin-right: 80px;">
+		<%= link_to contact_welcome_path() do %>
+				<div style="float: right;color:white;padding:13px;padding-bottom:14px;padding-right:40px;padding-left:38px;font-family:disco; font-weight: 600;line-height: 34px;font-size: 23px;<%= request.path.include?("/contact") ? "background-color: rgb(8,62,142);" : ""%>">Contact</div>
+		<% end %>
+		</div>
+
+		<div style="">
+		<%= link_to root_path() do %>
+			<div style="float: right;color:white;padding:13px;padding-bottom:14px;padding-right:40px;padding-left:38px;font-family:disco; font-weight: 600;line-height: 33px;font-size: 24px;<%= !request.path.include?("/contact") ? "background-color: rgb(8,62,142);" : ""%>">Home</div>
+		<% end %>
+		</div>
 	</div>
 </div>
+
+<!-- <div stlye="width:100px;height:100px;">< request.path %></div> -->
 
 <body style="font-family:Comic Sans MS, cursive, sans-serif;">
 
